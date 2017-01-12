@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>ac332313-3ee8-4d2f-b81a-d44f6c7598ad</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Sample.doc.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\Training0117</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>45ed7480-5cb9-48b6-ad7e-5485066ae2be</guid>
+  </Tags>
+</FolderEntryTags>
